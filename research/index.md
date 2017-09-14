@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Research
 tags: [research, pratee, gundannavar, wustl, graduate, iiith]
 comments: false
