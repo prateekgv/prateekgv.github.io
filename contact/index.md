@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: Contact
 tags: [prateek, gundannavar, contact, graduate, wustl]
 comments: false
