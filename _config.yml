@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Prateek"
+  name             : "Prateek Gundannavar"
   avatar           : "/images/Prateek.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate student. <br> ESE Department <br> Washington University in St. Louis"
+  bio              : "<center><i>Graduate student. <br> ESE Department, <br> Washington University in St. Louis</i></center>"
   location         : "St. Louis, MO"
-  email            :
+  email            : "prateekgvijay@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "prateekgv"
   gitlab           :
   google_plus      :
   keybase          :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "prateekgv"
   vine             :
   weibo            :
   xing             :
