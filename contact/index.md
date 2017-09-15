@@ -5,11 +5,11 @@ tags: [prateek, gundannavar, contact, graduate, wustl]
 comments: false
 ---
 
-You can contact me at :  
-* prateek [at] ese [dot] wustl [dot] edu
+You can contact me at :
+* prateek [at] ese [dot] wustl [dot] edu  
 * prateekgvijay [at] gmail [dot] com
 
-Address:  
+**Address**:  
 Department of Electrical and Systems Engineering,  
 Washington University in St. Louis,  
 Green Hall, Room 1101,  
