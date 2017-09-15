@@ -5,6 +5,8 @@ tags: [research, prateek, gundannavar, wustl, graduate, iiith]
 comments: false
 ---
 
+####Overview
+
 My research deals with mathematical modeling of complex systems and statistical signal processing, for information inference and decision making. A detailed list of my ongoing and past research projects are listed below.
 
 Currently at Washington University in St. Louis, I have been working on several research projects:
