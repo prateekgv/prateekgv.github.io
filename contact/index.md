@@ -4,11 +4,6 @@ author_profile: true
 tags: [prateek, gundannavar, contact, graduate, wustl]
 comments: false
 ---
-
-You can contact me at :
-* prateek [at] ese [dot] wustl [dot] edu  
-* prateekgvijay [at] gmail [dot] com
-
 **Address**:  
 Department of Electrical and Systems Engineering,  
 Washington University in St. Louis,  
