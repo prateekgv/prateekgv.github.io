@@ -3,11 +3,14 @@ main:
   - title: Home
     url: /
 
-  - title: Courses
-    url: /courses/
-
   - title: Research
     url: /research/
+
+  - title: Publications
+    url: /publications/
+
+  - title: Courses
+    url: /courses/
     
   - title: Contact
     url: /contact/
