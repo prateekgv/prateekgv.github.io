@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive-taxonomy
 title: Contact
 tags: [prateek, gundannavar, contact, graduate, wustl]
 comments: false
