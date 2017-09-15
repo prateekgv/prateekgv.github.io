@@ -19,8 +19,8 @@ Currently at Washington University in St. Louis, I have been working on several 
 During my stay at the Indian Institute of Science, Bangalore, I worked on the following projects:
 
 * Foot-mounted indoor navigation system for indoor positioning.
-* Modeling and classification of magnetic signatures of vehicles using magnetometers.
+* Modeling and classification of vehicles using magnetometers.
 
 At Rockwell Collins, Inc., I worked on the following project:
 
-* Development of synoptic and engine indication and crew alerting system application using model-based development for Embraer and Legacy jets.
+* Development of synoptic, and engine indication and crew alerting system, applications using model-based engineering for Embraer and Legacy jets.
