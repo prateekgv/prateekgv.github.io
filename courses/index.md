@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 tags: [prateek, gundannavar, courses, graduate, wustl]
 comments: false
+title: false
 ---
 
 ### Washington University in St. Louis, Missouri, USA
@@ -21,3 +22,4 @@ comments: false
 * (SP '16) ESE 513 Convex Optimization and Duality Theory
 
 ### International Institute of Information Technology, Hyderabad, India
+_Selected Courses_
