@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 tags: [research, prateek, gundannavar, wustl, graduate, iiith]
 comments: false
+last_modified_at: true
+title: false
 ---
 
 ### About Me
