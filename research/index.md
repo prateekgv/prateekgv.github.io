@@ -5,7 +5,7 @@ tags: [research, prateek, gundannavar, wustl, graduate, iiith]
 comments: false
 ---
 
-####Overview
+#### Overview
 
 My research deals with mathematical modeling of complex systems and statistical signal processing, for information inference and decision making. A detailed list of my ongoing and past research projects are listed below.
 
@@ -19,3 +19,7 @@ During my stay at the Indian Institute of Science, Bangalore, I worked on the fo
 
 * Foot-mounted indoor navigation system for indoor positioning.
 * Modeling and classification of magnetic signatures of vehicles using magnetometers.
+
+At Rockwell Collins, Inc., I worked on the following project:
+
+* Development of synoptic and engine indication and crew alerting system application using model-based development for Embraer and Legacy jets.
