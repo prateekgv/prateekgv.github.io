@@ -3,9 +3,10 @@ layout: single
 author_profile: true
 tags: [research, prateek, gundannavar, wustl, graduate, iiith]
 comments: false
+title: false
 ---
 
-#### Overview
+### Overview
 
 My research deals with mathematical modeling of complex systems and statistical signal processing, for information inference and decision making. A detailed list of my ongoing and past research projects are listed below.
 
