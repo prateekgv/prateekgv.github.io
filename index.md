@@ -13,5 +13,5 @@ I am a fifth-year PhD student in the Electrical and Systems Engineering Departme
 ### Education
 * **Ph.D.** Electrical Engineering  
   Washington University in St. Louis, Missouri, 2013 - Present
-* **B.Tech** Electronics and Communication Engineering
+* **B.Tech.** Electronics and Communication Engineering  
   International Institute of Information Technology, Hyderabad, 2005 - 2009

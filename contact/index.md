@@ -5,7 +5,7 @@ tags: [prateek, gundannavar, contact, graduate, wustl]
 comments: false
 title: false
 ---
-### Address:
+### Address
 
 Department of Electrical and Systems Engineering,  
 Washington University in St. Louis,  
