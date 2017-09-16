@@ -72,13 +72,13 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-106588129-1"
 
 
 # Site Author
-author:
+author: "Prateek"
   name             : "Prateek Gundannavar"
   avatar           : "/images/Prateek.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate student. <br> ESE Department, <br> Washington University in St. Louis."
