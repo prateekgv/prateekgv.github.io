@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 author_profile: true
 tags: [research, prateek, gundannavar, wustl, graduate, iiith]
 comments: false
