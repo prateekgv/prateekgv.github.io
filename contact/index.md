@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-tags: [prateek, gundannavar, contact, graduate, wustl]
 comments: false
 title: false
 ---
