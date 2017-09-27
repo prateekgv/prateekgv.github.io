@@ -18,4 +18,4 @@ title: false
 5. S. Veeramachaneni, M. Kirthi Krishan, **G. V. Prateek**, S. Sen, B. Sanklecha, and M. B. Srinivas, "A novel carry-look ahead approach to a unified BCD and binary adder/subtractor," _21st International Conference on VLSI Design (VLSID 2008)_, Hyderabad, 2008, pp. 547-552.
 
 ### Abstracts
-1. **G. V. Prateek**, M. Hurtado, and A. Nehorai, "Passive bistatic radar using weather radars and electromagnetic vector senors," _38th Conference on Radar Meterology_, Chicago, 2017.
+1. **G. V. Prateek**, M. Hurtado, and A. Nehorai, "Passive bistatic radar using weather radars and electromagnetic vector senors," _38th Conference on Radar Meterology_, Chicago, Aug 2017.

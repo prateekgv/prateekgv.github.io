@@ -13,7 +13,7 @@ Currently at Washington University in St. Louis, I have been working on several 
 
 * Modeling, detecting, and tracking of freezing of gait in Parkinson disease.
 * Identification of sleep-EEG based biomarkers for Alzheimer's disease.
-* Target detection using weather radars and electromagnetic vector sensors.[[_More_]](/research/wradaremvs/)
+* Target detection using weather radars and electromagnetic vector sensors. [[_More_]](/research/wradaremvs/)
 
 During my stay at the Indian Institute of Science, Bangalore, I worked on the following projects:
 
