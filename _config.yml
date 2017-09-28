@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 locale                   : "en-US"
 title                    : "prateekgv.github.io"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "prateekgv"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 author: #"Prateek"
   name             : "Prateek Gundannavar"
   avatar           : "/images/Prateek.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Graduate student. <br> ESE Department, <br> Washington University in St. Louis."
+  bio              : "PhD Student. <br> Department of ESE, <br> Washington University in St. Louis."
   location         : "St. Louis, MO"
   email            : "prateekgvijay@gmail.com"
   uri              :
@@ -97,7 +97,7 @@ author: #"Prateek"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "prateekgv" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
