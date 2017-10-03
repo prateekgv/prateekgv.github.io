@@ -17,7 +17,7 @@ Currently at Washington University in St. Louis, I have been working on several 
 
 During my stay at the Indian Institute of Science, Bangalore, I worked on the following projects:
 
-* Foot-mounted indoor navigation system for indoor positioning.
+* Foot-mounted indoor navigation system for indoor positioning. [[_More_]](/research/indoorpos/)
 * Modeling and classification of vehicles using magnetometers.
 
 At Rockwell Collins, Inc., I worked on the following project:
