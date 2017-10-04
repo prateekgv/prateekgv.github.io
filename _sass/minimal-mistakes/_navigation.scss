@@ -213,7 +213,7 @@
       display: -webkit-box;
       display: flex;
       -webkit-box-pack: end;
-       justify-content: center;
+       justify-content: flex-end;
       -webkit-box-flex: 1;
                   flex: 1;
       padding-right: 2rem;
@@ -470,7 +470,7 @@
     margin: 0;
     padding: 0.5rem 1rem;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
     font-weight: bold;
   }
 
