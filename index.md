@@ -15,3 +15,4 @@ I am a fifth-year PhD student in the Electrical and Systems Engineering Departme
   International Institute of Information Technology, Hyderabad, 2005 - 2009  
 
 ### Recent News
+* [**Dec 2017**] Paper on "Modeling, detecting, and tracking freezing of gait in Parkinson disease using inertial sensors" was accepted for publication in _IEEE Trans. on Biomedical Engineering_. 
