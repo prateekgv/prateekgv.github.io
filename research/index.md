@@ -12,7 +12,7 @@ My research deals with mathematical modeling of complex systems and statistical 
 Currently at Washington University in St. Louis, I have been working on several research projects:
 
 * Modeling, detecting, and tracking of freezing of gait in Parkinson disease.
-* Identification of sleep-EEG based biomarkers for Alzheimer's disease.
+* Identification of sleep-EEG based biomarkers for Alzheimer disease.
 * Target detection using weather radars and electromagnetic vector sensors. [[_More_]](/research/wradaremvs/)
 
 During my stay at the Indian Institute of Science, Bangalore, I worked on the following projects:
