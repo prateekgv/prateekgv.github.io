@@ -11,14 +11,10 @@ Parkinson disease (PD) is the second most common neurodegenerative disorder, aff
 ![An overview of the proposed system design.](images/sys_design_new.png)
 
 ##### Our research
-
 * We proposed a system design to detect and track FOG using inertial sensors in real time.
 * We developed physically-based signal models for the sensor data associated with the FOG patterns such as alternating trembling in the lower extremities (includes the hip, knee, and ankle joints, and the bones of the thigh, leg, and foot), and no movement of the limbs and trunk.
 * To filter out the falsely-detected FOG events, we developed a point-process filter which computes the probability of FOG (pFOG). Regions in the sensor data with high values of pFOG indicate FOG events.
 * We evaluated the system performance by comparing the overlapping and non-overlapping regions of FOG detected by our system, with the gold standard of video detection by an expert rater as a standard reference system, for real data collected from PD participants. The results indicate that our method yields 81.03% accuracy in detecting FOG events, and a three-fold decrease in the false-alarm rate relative to the existing method.
-
-![Zero-velocity event interval](images/zupt.png =50x50) ![Tremor event interval](images/fog-animate.gif =50x50)
-
 
 ##### Related publications
 1. **G. V. Prateek**, I. Skog, M. E. McNeely, R. P. Duncan, G. M. Earhart, and A. Nehorai, "Modeling, detecting, and tracking freezing of gait in Parkinson disease using inertial sensors," to appear in _IEEE Trans. on Biomedical Engineering_.
