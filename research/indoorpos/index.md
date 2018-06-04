@@ -8,7 +8,7 @@ title: false
 #### Data Fusion of Foot-Mounted Inertial Navigation System
 In our work, we developed novel algorithms to fuse inertial sensor data from dual foot-mounted inertial navigation systems to reduce the systematic heading drift. In particular, we proposed two range constraint methods to fuse the information from the navigation systems.
 
-<p align="center"><img src="https://github.com/prateekgv/openshoe-sphere_limit/blob/master/animation/cm_slm_uc_smaller_size.gif" width="400" height="270"/></p>
+<p align="center"><img src="/animate/cm_slm_uc_smaller_size.gif" width="400" height="270"/></p>
 <p align="center">3D trajectory plot of a dual foot-mounted INS with sphere limit method (SLM), centroid method (CM), and unconstrained method (UC).</p>
 
 #### Related publications
