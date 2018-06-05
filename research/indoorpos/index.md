@@ -7,9 +7,7 @@ title: false
 
 #### Data Fusion of Foot-Mounted Inertial Navigation System
 ##### Background
-<div class="align-justify">
-There has been an increasing demand for a robust and accurate positioning system that works in indoor and outdoor environments. GPS provides a whole range of navigation accuracies at very low cost and low power consumption. The devices that use GPS are portable and are well suited for integration with other sensors, communication links, and databases. The need for alternative positioning system arises because GPS does not work in all environments, especially indoor environments. This is a major problem in certain situations, such as military and disaster relief operations, where one has to track the first responders who arrive at the scene to carry out their mission.
-</div>
+<div class="align-justify">There has been an increasing demand for a robust and accurate positioning system that works in indoor and outdoor environments. GPS provides a whole range of navigation accuracies at very low cost and low power consumption. The devices that use GPS are portable and are well suited for integration with other sensors, communication links, and databases. The need for alternative positioning system arises because GPS does not work in all environments, especially indoor environments. This is a major problem in certain situations, such as military and disaster relief operations, where one has to track the first responders who arrive at the scene to carry out their mission.</div>
 
 ##### Our Research
 In our work, we developed novel algorithms to fuse inertial sensor data from dual foot-mounted inertial navigation systems to reduce the systematic heading drift. In particular, we proposed two range constraint methods to fuse the information from the navigation systems.
