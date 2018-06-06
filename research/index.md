@@ -11,15 +11,15 @@ My research deals with mathematical modeling of complex systems and statistical 
 
 Currently at Washington University in St. Louis, I have been working on several research projects:
 
-* Modeling, detecting, and tracking of freezing of gait in Parkinson disease. [[_More_]](/research/freezegait/)
+* Modeling, detecting, and tracking of freezing of gait in Parkinson disease. [\[<span style="color:blue">_More_</span>\]](/research/freezegait/)
 * Identification of sleep-EEG based biomarkers for Alzheimer disease.
-* Target detection using weather radars and electromagnetic vector sensors. [[_More_]](/research/wradaremvs/)
+* Target detection using weather radars and electromagnetic vector sensors. [\[<span style="color:blue">_More_</span>\]](/research/wradaremvs/)
 
 During my stay at the Indian Institute of Science, Bangalore, I worked on the following projects:
 
-* Foot-mounted indoor navigation system for indoor positioning. [[_More_]](/research/indoorpos/)
-* Modeling and classification of vehicles using magnetometers. [[_More_]](/research/vehclass/)
+* Foot-mounted indoor navigation system for indoor positioning. [\[<span style="color:blue">_More_</span>\]](/research/indoorpos/)
+* Modeling and classification of vehicles using magnetometers. [\[<span style="color:blue">_More_</span>\]](/research/vehclass/)
 
-At Rockwell Collins, Inc., I worked on the following project:
+At Rockwell Collins, Inc., I worked on the:
 
 * Development of synoptic, and engine indication and crew alerting system, applications using model-based engineering for Embraer and Legacy jets.
