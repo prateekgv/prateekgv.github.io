@@ -94,7 +94,7 @@ author: #"Prateek"
   github           : "prateekgv"
   gitlab           :
   google_plus      :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=iYDlIgsAAAAJ&hl=en&oi=ao"
   keybase          :
   instagram        :
   lastfm           :
@@ -107,6 +107,7 @@ author: #"Prateek"
   twitter          : #"prateekgv"
   vine             :
   weibo            :
+  orcid            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
