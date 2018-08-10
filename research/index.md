@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 comments: false
 title: false
+use_math: true
 ---
 
 ### Overview
@@ -23,3 +24,5 @@ As a Project Assistant at the Indian Institute of Science, Bangalore, I worked o
 At Rockwell Collins, Inc., I was involved in the
 
 * Development of synoptic, and engine indication and crew alerting system, applications using model-based engineering for Embraer and Legacy jets.
+
+Let's test some inline math $x$, $y$, $x_1$, $y_1$.
