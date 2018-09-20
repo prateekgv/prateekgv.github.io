@@ -12,7 +12,7 @@ My research deals with mathematical modeling of complex systems and statistical 
 As a Graduate Research Assistant at Washington University in St. Louis, I have been working on several research projects. These include
 
 * Modeling, detecting, and tracking of freezing of gait in Parkinson disease. [\[<span style="color:blue">_More_</span>\]](/research/freezegait/)
-* Identification of sleep-EEG based biomarkers for Alzheimer disease.
+* Identification of sleep-EEG based biomarkers in Alzheimer disease.
 * Target detection using weather radars and electromagnetic vector sensors. [\[<span style="color:blue">_More_</span>\]](/research/wradaremvs/)
 
 As a Project Assistant at the Indian Institute of Science, Bangalore, I worked on the following projects:
