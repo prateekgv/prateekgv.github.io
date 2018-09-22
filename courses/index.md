@@ -20,5 +20,17 @@ title: false
 * (FL '15) ESE 534 Special topics in Advanced Electrodynamics
 * (SP '16) ESE 513 Convex Optimization and Duality Theory
 
+### Study Groups at CSSIP, Washington University in St. Louis, Missouri, USA
+* (FL '13) SG421 Introduction to Mathematical Statistics
+* (SP '14) SG521 Linear Statistical Models
+* (SU '14) SG522 Multivariate Statistical Analysis
+* (SU '14) SG514 Convex Optimization
+* (FL '14) SG524 Detection and Estimation Theory
+* (SP '18) Deep Learning
+
 ### International Institute of Information Technology, Hyderabad, India
 _Selected Courses_
+* Adaptive Signal Processing
+* Multivariate Signal Processing
+* Multimedia Signal Processing
+* Radar Signal Processing
