@@ -27,10 +27,3 @@ title: false
 * (SU '14) SG514 Convex Optimization
 * (FL '14) SG524 Detection and Estimation Theory
 * (SP '18) Deep Learning
-
-### International Institute of Information Technology, Hyderabad, India
-_Selected Courses_
-* Adaptive Signal Processing
-* Multivariate Signal Processing
-* Multimedia Signal Processing
-* Radar Signal Processing
