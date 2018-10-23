@@ -6,7 +6,7 @@ title: false
 ---
 
 ### About Me
-I am a sixth-year PhD student in the [__Electrical and Systems Engineering__](http://ese.wustl.edu/) Department at [Washington University in St. Louis](http://wustl.edu). I work at the **In**tegrated **S**ignal **P**rocessing **I**n **R**esearch and **E**ducation ([__INSPIRE__](https://www.ese.wustl.edu/~nehorai/lab.html)) lab under the guidance of Prof. [__Arye Nehorai__](https://www.ese.wustl.edu/~nehorai/index.html).
+I am a sixth-year PhD student in the [__Electrical and Systems Engineering__](http://ese.wustl.edu/) Department at [__Washington University in St. Louis__](http://wustl.edu). I work at the **In**tegrated **S**ignal **P**rocessing **I**n **R**esearch and **E**ducation ([__INSPIRE__](https://www.ese.wustl.edu/~nehorai/lab.html)) lab under the guidance of Prof. [__Arye Nehorai__](https://www.ese.wustl.edu/~nehorai/index.html).
 
 ### Education
 * **Ph.D.** Electrical Engineering  
