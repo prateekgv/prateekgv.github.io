@@ -21,9 +21,5 @@ title: false
 {: reversed="reversed"}
 
 ### Abstracts
-1. **G. V. Prateek**, M. Hurtado, and A. Nehorai, "Passive bistatic radar using weather radars and electromagnetic vector senors," _38th Conference on Radar Meterology_, Chicago, Aug 2017. [\[<span style="color:blue">**POSTER**</span>\]](/research/wradaremvs/pdfs/[Poster]Prateek_2017-Target_detection_using_weather_radar_and_EMVS.pdf)
+1. **G. V. Prateek**, M. Hurtado, and A. Nehorai, "Passive bistatic radar using weather radars and electromagnetic vector senors," _38th Conference on Radar Meterology_, Chicago, Aug 2017. [\[<span style="color:blue", style="text-decoration:none">**POSTER**</span>\]](/research/wradaremvs/pdfs/[Poster]Prateek_2017-Target_detection_using_weather_radar_and_EMVS.pdf)
 {: reversed="reversed"}
-
-#img-link {
-    text-decoration: none;
-}
