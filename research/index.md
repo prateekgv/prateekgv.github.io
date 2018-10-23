@@ -20,6 +20,6 @@ As a Project Assistant at the Indian Institute of Science, Bangalore, I worked o
 * Foot-mounted indoor navigation system for indoor positioning. [\[<span style="color:blue">_More_</span>\]](/research/indoorpos/)
 * Modeling and classification of vehicles using magnetometers. [\[<span style="color:blue">_More_</span>\]](/research/vehclass/)
 
-At Rockwell Collins, Inc., I was involved in the
+At Rockwell Collins, Inc., I was involved in the development of
 
-* Development of synoptic, and engine indication and crew alerting system, applications using model-based engineering for Embraer and Legacy jets.
+* Synoptic, and engine indication and crew alerting system, applications using model-based engineering for Embraer and Legacy jets.
