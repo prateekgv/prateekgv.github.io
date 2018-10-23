@@ -125,6 +125,8 @@ a {
   &:visited {
     color: $link-color-visited;
   }
+
+  text-decoration: none;
 }
 
 /* code */
