@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dirt" # "air", "contrast", "dark", "dirt", "mint", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "prateekgv.github.io"
+title                    : "Prateek Gundannavar"
 title_separator          : "-"
 name                     : "prateekgv"
 description              : "An amazing website."
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author: #"Prateek"
-  name             : "Prateek Gundannavar"
+  name             : # "Prateek Gundannavar"
   avatar           : "/images/Prateek_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student. <br> Department of ESE, <br> Washington University in St. Louis."
   location         : "St. Louis, MO"
