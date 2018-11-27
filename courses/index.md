@@ -24,6 +24,7 @@ title: false
 * (FL '13) SG421 Introduction to Mathematical Statistics
 * (SP '14) SG521 Linear Statistical Models
 * (SU '14) SG522 Multivariate Statistical Analysis
-* (SU '14) SG514 Convex Optimization
 * (FL '14) SG524 Detection and Estimation Theory
 * (SP '18) Deep Learning
+
+FL -- Fall; SP -- Spring; SU -- Summer;
