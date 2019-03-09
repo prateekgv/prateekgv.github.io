@@ -14,5 +14,7 @@ I am a PhD student in the [__Electrical and Systems Engineering__](http://ese.wu
 * **B.Tech.** Electronics and Communication Engineering  
   [__International Institute of Information Technology__](https://www.iiit.ac.in/), Hyderabad, 2005 - 2009  
 
+<!---
 ### Recent News
 [**Dec 2017**] Paper on "Modeling, detecting, and tracking freezing of gait in Parkinson disease using inertial sensors" was accepted for publication in _IEEE Trans. on Biomedical Engineering_. 
+-->
