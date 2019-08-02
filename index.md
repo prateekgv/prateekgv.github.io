@@ -6,7 +6,7 @@ title: false
 ---
 
 ### About Me
-I am a PhD student in the [__Electrical and Systems Engineering__](http://ese.wustl.edu/) Department at [__Washington University in St. Louis__](http://wustl.edu). I work at the Integrated Signal Processing In Research and Education ([__INSPIRE__](https://www.ese.wustl.edu/~nehorai/lab.html)) lab under the guidance of Prof. [__Arye Nehorai__](https://www.ese.wustl.edu/~nehorai/index.html).
+I graduated with a Ph.D. degree in [__Electrical Engineering__](http://ese.wustl.edu/) from [__Washington University in St. Louis__](http://wustl.edu) in 2019. I continue to work at the Integrated Signal Processing In Research and Education ([__INSPIRE__](https://www.ese.wustl.edu/~nehorai/lab.html)) lab under the advising of Prof. [__Arye Nehorai__](https://www.ese.wustl.edu/~nehorai/index.html).
 
 ### Education
 * **Ph.D.** in Electrical Engineering  
