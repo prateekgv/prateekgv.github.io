@@ -81,7 +81,7 @@ analytics:
 author: #"Prateek"
   name             : # "Prateek Gundannavar"
   avatar           : "/images/Prateek_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Student <br> Department of ESE <br> Washington University in St. Louis"
+  bio              : "Ph.D. in Electrical Engineering <br> Department of ESE <br> Washington University in St. Louis"
   location         : "St. Louis, MO"
   email            : "prateekgvijay@gmail.com"
   uri              :
