@@ -21,4 +21,5 @@ After graduating from [__Washington University in St. Louis__](http://wustl.edu)
 
 ### Recent News
 [**Dec 2019**] Paper on "Gait cycle validation and segmentation using inertial sensors" was accepted for publication in _IEEE Trans. on Biomedical Engineering_. 
+
 [**Nov 2019**] Accepted the position of a data scientist at [__Calico Labs__](https://www.calicolabs.com/).
