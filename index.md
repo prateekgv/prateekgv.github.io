@@ -8,7 +8,7 @@ title: false
 ### About Me
 I graduated with a Ph.D. degree in [__Electrical Engineering__](http://ese.wustl.edu/) from [__Washington University in St. Louis__](http://wustl.edu) in 2019. I worked at the Integrated Signal Processing In Research and Education ([__INSPIRE__](https://www.ese.wustl.edu/~nehorai/lab.html)) lab under the advising of Prof. [__Arye Nehorai__](https://www.ese.wustl.edu/~nehorai/index.html).
 
-After graduating from [__Washington University in St. Louis__](http://wustl.edu), I accepted the position of a Data Scientist at [__Calico Labs__](https://www.calicolabs.com/).
+After graduating from [__Washington University in St. Louis__](http://wustl.edu), I accepted the position of a Data Scientist at [__Calico Life Sciences__](https://www.calicolabs.com/).
 
 ### Education
 * **Ph.D.** in Electrical Engineering  
@@ -22,4 +22,4 @@ After graduating from [__Washington University in St. Louis__](http://wustl.edu)
 ### Recent News
 [**Dec 2019**] Paper on "Gait cycle validation and segmentation using inertial sensors" was accepted for publication in _IEEE Trans. on Biomedical Engineering_. 
 
-[**Nov 2019**] Accepted the position of a data scientist at [__Calico Labs__](https://www.calicolabs.com/).
+[**Nov 2019**] Accepted the position of a data scientist at [__Calico Life Sciences__](https://www.calicolabs.com/).
