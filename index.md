@@ -8,7 +8,7 @@ title: false
 ### About Me
 I graduated with a Ph.D. degree in [__Electrical Engineering__](http://ese.wustl.edu/) from [__Washington University in St. Louis__](http://wustl.edu) in 2019. I worked at the Integrated Signal Processing In Research and Education ([__INSPIRE__](https://www.ese.wustl.edu/~nehorai/lab.html)) lab under the advising of Prof. [__Arye Nehorai__](https://www.ese.wustl.edu/~nehorai/index.html).
 
-After graduating from [__Washington University in St. Louis__](http://wustl.edu), I will be joining [__Calico Life Sciences__](https://www.calicolabs.com/) as a Data Scientist.
+I will be joining [__Calico Life Sciences__](https://www.calicolabs.com/) as a Data Scientist in December 2019.
 
 ### Education
 * **Ph.D.** in Electrical Engineering  
