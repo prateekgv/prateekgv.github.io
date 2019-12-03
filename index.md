@@ -23,3 +23,5 @@ I will be joining [__Calico Life Sciences__](https://www.calicolabs.com/) as a D
 [**Dec 2019**] Paper on "Gait cycle validation and segmentation using inertial sensors" was accepted for publication in _IEEE Trans. on Biomedical Engineering_. [\[<span style="color:blue">**code**</span>\]](https://github.com/prateekgv/sawd_gcvs)
 
 [**Nov 2019**] Accepted the position of a Data Scientist at [__Calico Life Sciences__](https://www.calicolabs.com/), South San Francisco.
+
+[**Aug 2019**] Successfully defended my PhD thesis -- [__A modular approach for modeling, detecting, and tracking freezing of gait in Parkinson disease using inertial sensors__](https://openscholarship.wustl.edu/eng_etds/473/).
