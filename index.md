@@ -20,6 +20,6 @@ I will be joining [__Calico Life Sciences__](https://www.calicolabs.com/) as a D
 
 
 ### Recent News
-[**Dec 2019**] Paper on "Gait cycle validation and segmentation using inertial sensors" was accepted for publication in _IEEE Trans. on Biomedical Engineering_. 
+[**Dec 2019**] Paper on "Gait cycle validation and segmentation using inertial sensors" was accepted for publication in _IEEE Trans. on Biomedical Engineering_. [\[<span style="color:blue">**code**</span>\]](https://github.com/prateekgv/sawd_gcvs)
 
 [**Nov 2019**] Accepted the position of a Data Scientist at [__Calico Life Sciences__](https://www.calicolabs.com/), South San Francisco.
