@@ -11,7 +11,7 @@ Signal denoising and pattern recognition of time-series data are widely used in 
 
 <figure>
   <img src="figures/sasdpr.png"/>
-  <figcaption>Decomposition of a noisy input signal into sum of a low-frequency signal, an oscillatory signal, and discontinuous signal using sparsity-assisted signal denoising approach.</figcaption>
+  <figcaption>Decomposition of a noisy input signal into sum of a low-frequency signal, an oscillatory signal, and discontinuous signal using sparsity-assisted signal denoising and pattern recognition (SASDPR) approach.</figcaption>
 </figure>
 
 ##### Our Research
