@@ -21,4 +21,4 @@ Prior to joining Calico, I graduated with a Ph.D. degree in [__Electrical Engine
  -->
 
 ### Recent News
-[**Jun 2021**] Paper on "Sparsity-assisted signal denoising and pattern recognition in time-series data" was accepted for publication in _Circuits, Systems, and Signal Processing_. [\[<span style="color:blue">**code**</span>\]](https://github.com/prateekgv/sasdpr)
+[**Jun 2021**] Paper on "Sparsity-assisted signal denoising and pattern recognition in time-series data" was accepted for publication in _Circuits, Systems, and Signal Processing_. [\[<span style="color:blue">**link**</span>\]](https://rdcu.be/cnHD9) [\[<span style="color:blue">**code**</span>\]](https://github.com/prateekgv/sasdpr)

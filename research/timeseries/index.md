@@ -26,4 +26,4 @@ To demonstrate various applications of our proposed filter designs, we
 * combine the signal denoising and pattern recognition tasks, and derive a new signal model called the sparsity-assisted signal denoising and pattern recognition (SASDPR).
 
 ##### Publications
-1. **G. V. Prateek**, Y-E. Ju, and A. Nehorai, "Sparsity-assited signal denoising and pattern recognition in time-series data," to appear in _Circuits, Systems, and Signal Processing_. [\[<span style="color:blue">**code**</span>\]](https://github.com/prateekgv/sasdpr)
+1. **G. V. Prateek**, Y-E. Ju, and A. Nehorai, "Sparsity-assited signal denoising and pattern recognition in time-series data," to appear in _Circuits, Systems, and Signal Processing_. [\[<span style="color:blue">**link**</span>\]](https://rdcu.be/cnHD9) [\[<span style="color:blue">**code**</span>\]](https://github.com/prateekgv/sasdpr)
