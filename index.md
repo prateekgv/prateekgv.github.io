@@ -21,4 +21,6 @@ Prior to joining Calico, I graduated with a Ph.D. degree in [__Electrical Engine
  -->
 
 ### Recent News
+[**Aug 2021**] Our recent work on "Automated, high-dimensional evaluation of physiological aging and resilience in outbred mice" is now available on _bioRxiv_. [\[<span style="color:blue">**link**</span>\]](https://www.biorxiv.org/content/10.1101/2021.08.02.454830v1.abstract)
+
 [**Jun 2021**] Paper on "Sparsity-assisted signal denoising and pattern recognition in time-series data" was accepted for publication in _Circuits, Systems, and Signal Processing_. [\[<span style="color:blue">**link**</span>\]](https://rdcu.be/cnHD9) [\[<span style="color:blue">**code**</span>\]](https://github.com/prateekgv/sasdpr)

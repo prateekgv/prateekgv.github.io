@@ -6,6 +6,7 @@ title: false
 ---
 
 ### Journals
+6. Z. Chen, A. Raj, **G. V. Prateek**, A. Di Francesco, J. Liu, B. E. Keyes, G. Kolumam, V. Jojic, and A. Freund, "Automated, high-dimensional evaluation of physiological aging and resilience in outbred mice", _bioRxiv_(2021). [\[<span style="color:blue">**link**</span>\]](https://www.biorxiv.org/content/10.1101/2021.08.02.454830v1.abstract)
 5. **G. V. Prateek**, Y-E. Ju, and A. Nehorai, "Sparsity-assited signal denoising and pattern recognition in time-series data," to appear in _Circuits, Systems, and Signal Processing_. [\[<span style="color:blue">**link**</span>\]](https://rdcu.be/cnHD9) [\[<span style="color:blue">**code**</span>\]](https://github.com/prateekgv/sasdpr)
 4. **G. V. Prateek**, P. Mazzoni, G. M. Earhart, and A. Nehorai, "Gait cycle validation and segmentation using inertial sensors," in _IEEE Trans. on Biomedical Engineering_, vol. 67, no. 8, pp. 2132-2144, Aug. 2020. [\[<span style="color:blue">**pdf**</span>\]](/research/gaitseg/pdfs/[IEEEBME]Prateek_et_al-2019-Gait_Cycle_Val_and_Seg_using_Inertial_Sensors.pdf) [\[<span style="color:blue">**suppl**</span>\]](/research/gaitseg/pdfs/[IEEEBME]Prateek_et_al-2019-Supplemental_Material.pdf) [\[<span style="color:blue">**code**</span>\]](https://github.com/prateekgv/sawd_gcvs)
 3. **G. V. Prateek**, I. Skog, M. E. McNeely, R. P. Duncan, G. M. Earhart, and A. Nehorai, "Modeling, detecting, and tracking freezing of gait in Parkinson disease using inertial sensors," in _IEEE Transactions on Biomedical Engineering_, vol. 65, no. 10, pp. 2152-2161, Oct. 2018. [\[<span style="color:blue">**pdf**</span>\]](/research/freezegait/pdfs/[IEEEBME]Prateek_et_al-2018-Modeling_Detecting_Tracking_Gait_Parkinson_TBME_2017.pdf) [\[<span style="color:blue">**suppl**</span>\]](/research/freezegait/pdfs/[IEEEBME]Prateek_et_al-2018-Supplemental_Material.pdf) [\[<span style="color:blue">**slides**</span>\]](/research/freezegait/pdfs/[Slides]Prateek_et_al-2018-FOG_Detection.pdf)
@@ -21,6 +22,9 @@ title: false
 1. S. Veeramachaneni, M. Kirthi Krishan, **G. V. Prateek**, S. Sen, B. Sanklecha, and M. B. Srinivas, "A novel carry-look ahead approach to a unified BCD and binary adder/subtractor," _21st International Conference on VLSI Design (VLSID 2008)_, Hyderabad, 2008, pp. 547-552.
 {: reversed="reversed"}
 
-### Abstracts
+### Thesis
+1. "A modular approach for modeling, detecting, and tracking freezing of gait in Parkinson disease using inertial sensors" [\[<span style="color:blue">**link**</span>\]](https://openscholarship.wustl.edu/eng_etds/473/)
+
+### Posters
 1. **G. V. Prateek**, M. Hurtado, and A. Nehorai, "Passive bistatic radar using weather radars and electromagnetic vector senors," _38th Conference on Radar Meterology_, Chicago, Aug 2017. [\[<span style="color:blue">**poster**</span>\]](/research/wradaremvs/pdfs/[Poster]Prateek_2017-Target_detection_using_weather_radar_and_EMVS.pdf)
 {: reversed="reversed"}
