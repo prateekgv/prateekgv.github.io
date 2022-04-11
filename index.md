@@ -22,4 +22,4 @@ Prior to joining Calico, I graduated with a Ph.D. degree (2019) in [__Electrical
 
 ### Recent News
 
-[**Mar 2022**]"Automated, high-dimensional evaluation of physiological aging and resilience in outbred mice" was accepted for publication in the _eLife_ journal. An overview of the work was presented at the 2021 ARDD conference. [\[<span style="color:blue">**summary**</span>\]](https://www.youtube.com/watch?v=ar7dTOgpAkQ) [\[<span style="color:blue">**link**</span>\]](https://www.biorxiv.org/content/10.1101/2021.08.02.454830v1.abstract) [\[<span style="color:blue">**code**</span>\]](https://github.com/calico/catnap)
+[**Mar 2022**] "Automated, high-dimensional evaluation of physiological aging and resilience in outbred mice" was accepted for publication in the _eLife_ journal. An overview of this work was presented at the 2021 ARDD conference. [\[<span style="color:blue">**summary**</span>\]](https://www.youtube.com/watch?v=ar7dTOgpAkQ) [\[<span style="color:blue">**link**</span>\]](https://www.biorxiv.org/content/10.1101/2021.08.02.454830v1.abstract) [\[<span style="color:blue">**code**</span>\]](https://github.com/calico/catnap)

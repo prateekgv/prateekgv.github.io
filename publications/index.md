@@ -23,8 +23,9 @@ title: false
 {: reversed="reversed"}
 
 ### Thesis
-1. "A modular approach for modeling, detecting, and tracking freezing of gait in Parkinson disease using inertial sensors" [\[<span style="color:blue">**link**</span>\]](https://openscholarship.wustl.edu/eng_etds/473/) [\[<span style="color:blue">**slides**</span>\]](https://drive.google.com/file/d/1Yl3xLPlsv1SGH9Lm4rRatLiW_--7Q2w2/view?usp=sharing)
+1. "A modular approach for modeling, detecting, and tracking freezing of gait in Parkinson disease using inertial sensors" [\[<span style="color:blue">**link**</span>\]](https://openscholarship.wustl.edu/eng_etds/473/) [\[<span style="color:blue">**slides**</span>\]](https://drive.google.com/file/d/1Yl3xLPlsv1SGH9Lm4rRatLiW_--7Q2w2/view?usp=sharing) [\[<span style="color:blue">**demo-1**</span>\]](https://drive.google.com/file/d/1q8_a7NXTSF0wmhASmSDAijUiBCvStcYg/view?usp=sharing) [\[<span style="color:blue">**demo-2**</span>\]](https://drive.google.com/file/d/1mFmm6COp3jPqEiTJZZ0aHVn1Aoos94FU/view?usp=sharing)
 {: reversed="reversed"}
+
 
 ### Posters
 1. **G. V. Prateek**, M. Hurtado, and A. Nehorai, "Passive bistatic radar using weather radars and electromagnetic vector senors," _38th Conference on Radar Meterology_, Chicago, Aug 2017. [\[<span style="color:blue">**poster**</span>\]](/research/wradaremvs/pdfs/[Poster]Prateek_2017-Target_detection_using_weather_radar_and_EMVS.pdf)
